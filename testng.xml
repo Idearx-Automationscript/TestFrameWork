@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+
+    <test name="LoginTest">
+        <classes>
+            <class name="com.idearx.erp.testcases.TC_01_Login" />
+            <class name="com.idearx.erp.testcases.TC_02_PoCreation" />
+            
+        </classes>
+    </test>
+</suite>
+
+    
